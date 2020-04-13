@@ -10,5 +10,5 @@ response = mapquest_client.address(location=location)
 Install mapquest via pip:
 
 ```bash
-$ pip install twython
+$ pip install mapquest
 ```
